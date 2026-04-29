@@ -1,0 +1,16 @@
+{
+  "name": "fallout4-npc-fix",
+  "version": "1.0.0",
+  "dependencies": [
+    "fmt",
+    "spdlog",
+    "args",
+    "boost-stl-interfaces",
+    "frozen",
+    "nowide",
+    "robin-hood-hashing",
+    "rsm-mmio",
+    "xbyak"
+  ],
+  "builtin-baseline": "d7b75fa8a30478ae5b5eb86ac730f851ef036875"
+}

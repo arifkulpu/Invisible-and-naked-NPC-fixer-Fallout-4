@@ -1,0 +1,11 @@
+build/
+vcpkg_installed/
+.gemini/
+*.log
+temp_colorglass/
+.vs/
+out/
+x64/
+*.user
+*.suo
+*.pdb
