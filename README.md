@@ -91,3 +91,6 @@ Bu mod, modern Fallout 4 modlama standartları kullanılarak C++ ile geliştiril
 ### 📝 Gereksinimler
 *   Fallout 4 (v1.10.163 veya uyumlu sürümler)
 *   Fallout 4 Script Extender (F4SE)
+
+## License / Lisans
+Copyright (c) 2026 Arif KULPU. All Rights Reserved. — Tüm Hakları Saklıdır. See LICENSE for details.
